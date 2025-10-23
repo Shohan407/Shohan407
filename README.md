@@ -67,8 +67,9 @@
 
 ---
 
-### 🧩 Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=Shohan407&icon=0&color=red)](https://visitcount.itsvg.in)
+<p align="center">
+  ![Visitors](https://img.shields.io/badge/Visitors-1234-red?style=for-the-badge&logoColor=white&labelColor=000000)
+</p>
 
 ---
 
