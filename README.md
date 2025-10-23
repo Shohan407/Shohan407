@@ -39,6 +39,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan407)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Shohan407&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shohan407&theme=ambient_gradient&hide_border=false)<br/>
