@@ -1,7 +1,7 @@
 ## 🖤❤️ Hi, I'm [Md Shohanur Rahman (Shohan)](https://linkedin.com/in/md-shohanur-rahman-shohan-54795b38b)
 ### 🚀 Front-End Developer | Passionate Coder | Lifelong Learner
 
-![Banner]([https://i.ibb.co.com/your-banner-link-here.jpg](https://i.postimg.cc/4dJsrB4j/Blue-White-Modern-Online-Business-Webinar-Banner.png)) 
+![Banner](https://i.ibb.co.com/MyxkqjVB/Blue-White-Modern-Online-Business-Webinar-Banner.png) 
 
 ---
 
