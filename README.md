@@ -43,13 +43,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vscode" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shohan407&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
 ---
 
 <h4 align="center">✨ "Code. Learn. Build. Repeat." ✨</h4>        
