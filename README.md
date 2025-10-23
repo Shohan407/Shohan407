@@ -19,7 +19,6 @@
 
 ---
 
----
 
 💻 **What I Do:**  
 - ✨ Build interactive UI using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **DaisyUI**  
@@ -43,7 +42,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vscode" />
 </p>
----
+
+ ---
 
 <h4 align="center">✨ "Code. Learn. Build. Repeat." ✨</h4>        
 
