@@ -1,14 +1,14 @@
-## 🖤❤️ Hi, I'm [Md Shohanur Rahman (Shohan)](https://linkedin.com/in/md-shohanur-rahman-shohan-54795b38b)
-### 🚀 Front-End Developer | Passionate Coder | Lifelong Learner
-
----
-
 <p align="center">
   <img src="https://i.ibb.co.com/MyxkqjVB/Blue-White-Modern-Online-Business-Webinar-Banner.png" alt="Shohan Banner" width="100%" style="max-height:300px; object-fit:cover;" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Building+Modern+Web+Applications;Loves+React%2C+Firebase+%26+Tailwind;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
+
+---
+
+## 🖤❤️ Hi, I'm [Md Shohanur Rahman (Shohan)](https://linkedin.com/in/md-shohanur-rahman-shohan-54795b38b)
+### 🚀 Front-End Developer | Passionate Coder | Lifelong Learner
 
 ---
 
@@ -44,8 +44,6 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan407)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
