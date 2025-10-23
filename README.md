@@ -74,7 +74,6 @@
 ### ❤️ Let's Connect  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rx.shohan.206237) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shohanbhai407) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shohanur-rahman-shohan-54795b38b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xrshohan07@gmail.com) 
 
-
 ---
 
 ### ⚡ Fun Fact  
