@@ -19,6 +19,26 @@
 
 ---
 
+---
+
+💻 **What I Do:**  
+- ✨ Build interactive UI using **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, and **DaisyUI**  
+- 🔥 Develop powerful client-side apps with **React.js**  
+- 🧩 Implement **Firebase Authentication** for secure login systems (Google Auth, Email/Password)  
+- 🗄️ Manage and connect data with **MongoDB**  
+- ⚙️ Write basic **Node.js** & backend logic integration  
+- 🚀 Deploy fast and responsive apps on **Netlify**  
+
+🎯 **Currently Learning:**  
+- Deep diving into **Node.js** and backend API design  
+- Building full-stack projects combining **Firebase + MongoDB**  
+
+💡 I believe great development is all about creativity, problem-solving, and delivering real value through clean, structured code.  
+
+> ❤️ “Code with passion, design with purpose, and deploy with pride.” 🖤
+
+ ---
+
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vscode" />
