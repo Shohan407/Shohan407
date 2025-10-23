@@ -1,12 +1,14 @@
 ## 🖤❤️ Hi, I'm [Md Shohanur Rahman (Shohan)](https://linkedin.com/in/md-shohanur-rahman-shohan-54795b38b)
 ### 🚀 Front-End Developer | Passionate Coder | Lifelong Learner
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Building+Modern+Web+Applications;Loves+React%2C+Firebase+%26+Tailwind;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
 
 ---
 
-![Banner](https://i.ibb.co.com/MyxkqjVB/Blue-White-Modern-Online-Business-Webinar-Banner.png) 
+<p align="center">
+  <img src="https://i.ibb.co.com/MyxkqjVB/Blue-White-Modern-Online-Business-Webinar-Banner.png" alt="Shohan Banner" width="100%" style="max-height:300px; object-fit:cover;" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Building+Modern+Web+Applications;Loves+React%2C+Firebase+%26+Tailwind;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
 ---
 
