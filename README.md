@@ -59,6 +59,13 @@
 
 ---
 
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shohan407&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ### 🧩 Visitor Count  
 [![](https://visitcount.itsvg.in/api?id=Shohan407&icon=0&color=red)](https://visitcount.itsvg.in)
 
