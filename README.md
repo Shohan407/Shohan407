@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  ![Visitors](https://img.shields.io/badge/Visitors-1234-red?style=for-the-badge&logoColor=white&labelColor=000000)
+  ![Visitors](https://img.shields.io/badge/Visitors-1000-red?style=for-the-badge&logoColor=white&labelColor=000000)
 </p>
 
 ---
